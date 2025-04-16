@@ -8,7 +8,7 @@ Email: tassalphonse@gmail.com
 GitHub: https://github.com/Abraxas618  
 Documentation: https://tetracodex.readthedocs.io  
 Medium Article: https://medium.com/@tassalphonse/reclaiming-the-ballot-how-codex-enables-sovereign-tamper-proof-voting-for-indigenous-nations-ed4cabe7eab7  
-
+Read the Codex Treaty 8 Manifesto — a call to action for youth across the North.
 ---
 
 ## Overview
