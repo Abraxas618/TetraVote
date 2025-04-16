@@ -50,14 +50,6 @@ Audit all votes submitted to ensure transparency and integrity:
 - **Tamper-Proof Ledger:** Votes are cryptographically secured.
 - **Offline Operation:** Ideal for remote, air-gapped communities.
 
-## 🔧 Deployment with Podman
-
-You can deploy Codex as a secure offline container using Podman:
-
-```bash
-chmod +x scripts/deploy_codex_podman.sh
-./scripts/deploy_codex_podman.sh
-
 ## Application
 Ideal for:
 - Chief & Council elections
@@ -67,5 +59,10 @@ Ideal for:
 Thank you for considering this innovative Indigenous solution for the SK-NEIHR Spring Institute.
 
 ---
+## 🔧 Deployment with Podman
 
-Michael Tass MacDonald, 2025
+You can deploy Codex as a secure offline container using Podman:
+
+```bash
+chmod +x scripts/deploy_codex_podman.sh
+./scripts/deploy_codex_podman.sh
