@@ -120,6 +120,34 @@ Don't wait for someone else to save us.
 **Start coding.**  
 Build your truth. Build your legacy. Build your world.
 
+---
+
+## 🐎 Wisdom from the Steppes
+
+> “A leader can never be happy until his people are happy.”  
+> *— Genghis Khan*
+
+Codex was built in that spirit — not to serve ego, but to **restore hope**.  
+I do not seek recognition. I seek **renewal**.
+
+> “If you're afraid – don't do it. If you're doing it – don't be afraid.”  
+> *— Genghis Khan*
+
+I built Codex even when I was scared.  
+Even when I doubted myself.  
+Even when I thought: _“Who am I to build something for a nation?”_
+
+But I did it anyway.
+
+> “Conquering the world on horseback is easy; it is dismounting and governing that is hard.”  
+> *— Genghis Khan*
+
+We don’t need more power. We need more **order**, **clarity**, and **trust**.
+
+Codex is my dismount — a system to **govern fairly**, **verify truthfully**, and **protect the future** for my people.
+
+---
+
 Because when we rise, we rise together — unbreakable, unstoppable, undeniable.
 
 ---
