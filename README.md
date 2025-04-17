@@ -23,7 +23,8 @@ Treaty 8 Territory (Stony Rapids, SK)
 It operates without reliance on cloud services or centralized infrastructure, enabling **air-gapped**, **offline**, and **containerized deployments**.
 
 This prototype was proposed late to SK-NEIHR as a real-world application of Indigenous Data Sovereignty and secure digital governance using zero-trust mathematics.
-I am not entrolled in any graduate studies but want to contribute to SK-NEIHR Vison of Indigenous Data Sovereignty I Currently have Grade 12 Self Taught Post-Quantum Cryptography with Zero Knowledge Proof, etc
+I am not entrolled in any graduate studies but want to contribute to SK-NEIHR Vison of Indigenous Data Sovereignty I Currently have Grade 12 Self Taught Post-Quantum Cryptography with Zero Knowledge Proof, etc TetraVote is designed following post-quantum principles — decentralized, air-gapped, identity-blind, and ledger-based — but the current prototype uses classical cryptographic primitives (e.g., SHA-256) and standard credential structures.
+Future iterations are intended to integrate true post-quantum encryption (Kyber key exchange, lattice signatures) and zero-knowledge SNARK proofs once those libraries are fully modularized for offline First Nations deployments.
 ---
 
 ## 📁 Included Files
