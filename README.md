@@ -119,7 +119,7 @@ MIT License — Open source and reusable for community, education, or government
 >  
 > — *Michael Tass MacDonald (Abraxas618)*
 
-##TetraCodex: Final Combination of the components listed below.
+## TetraCodex: Final Combination of the components listed below.
 
 License: Apache 2.0.
 
