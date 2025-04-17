@@ -22,8 +22,8 @@ Treaty 8 Territory (Stony Rapids, SK)
 **TetraVote** is a zero-knowledge, post-quantum voting framework created to empower Indigenous nations with sovereign, tamper-proof, and transparent elections.  
 It operates without reliance on cloud services or centralized infrastructure, enabling **air-gapped**, **offline**, and **containerized deployments**.
 
-This prototype was submitted to SK-NEIHR as a real-world application of Indigenous Data Sovereignty and secure digital governance using zero-trust mathematics.
-
+This prototype was proposed late to SK-NEIHR as a real-world application of Indigenous Data Sovereignty and secure digital governance using zero-trust mathematics.
+I am not entrolled in any graduate studies but want to contribute to SK-NEIHR Vison of Indigenous Data Sovereignty I Currently have Grade 12 Self Taught Post-Quantum Cryptography with Zero Knowledge Proof, etc
 ---
 
 ## 📁 Included Files
