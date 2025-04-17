@@ -2,7 +2,7 @@
 # TetraVote – Codex Prototype Submission to University of Saskatchewan (UofS)  
 ## SK-NEIHR Spring Institute 2025
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15238392.svg)](https://doi.org/10.5281/zenodo.15238392)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15238465.svg)](https://doi.org/10.5281/zenodo.15238465)
 
 ---
 
