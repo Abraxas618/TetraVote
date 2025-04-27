@@ -1,13 +1,13 @@
-# 📜 Codex Treaty 8 Manifesto
+# 📜 TetraVote Treaty 8 Manifesto
 
 **From Broken Paths to Unbreakable Code: A Call to the North's Dreamers**  
 By Michael Tass MacDonald  
 Treaty 8 Territory | Stony Rapids, Saskatchewan  
-Dënesųłiné Sovereign Technologist | Creator of Codex
+Dënesųłiné Sovereign Technologist | Creator of TetraVote (Codex)
 
 ---
 
-## 🔥 Why I Built Codex
+## 🔥 Why I Built  TetraVote (Codex)
 
 I built Codex because I was tired of the whispers:  
 "You'll never get out of here."  
