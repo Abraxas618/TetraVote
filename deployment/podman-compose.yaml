@@ -1,0 +1,19 @@
+# podman-compose.yaml
+services:
+  vote_station:
+    image: localhost/tetravote-core
+    build: ./deployment
+    volumes:
+      - ./vote_station:/app/vote_station
+      - ./TetraChain.json:/data/tetra/TetraChain.json:z
+    command: python3 vote_station/vote_submit.py --offline
+    environment:
+      - ELECTION_TAG=blacklake2025
+
+  audit_node:
+    image: localhost/tetravote-core
+    build: ./deployment
+    volumes:
+      - ./vote_station:/app/vote_station
+      - ./docs:/data/docs:z
+    command: python3 vote_station/audit.py --ledger /data/docs/TetraChain_BlackLake2025_Simulated.json
